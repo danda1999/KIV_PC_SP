@@ -1,0 +1,10 @@
+BIN = flow.exe
+OBJ = edge.obj vertex.obj vector.obj input.obj matrix.oobj queue.obj graph.obj maxflow.obj output.obj main.obj
+CC = gcc
+CCFLAGS = -Wall -Wextra -pedantic -ansi -g
+
+%.o: %.c
+	$(CC) -c $(CFLAGS) $< -o $@
+
+$(BIN): $(OBJ)
+	$(CC) $^ -o $@
