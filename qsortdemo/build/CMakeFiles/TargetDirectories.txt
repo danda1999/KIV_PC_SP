@@ -1,0 +1,3 @@
+/home/frantisek/Dokumenty/VS/Vyuka/kiv-pc/Zdrojaky/9_cviceni(debugger)/qsortdemo/build/CMakeFiles/rebuild_cache.dir
+/home/frantisek/Dokumenty/VS/Vyuka/kiv-pc/Zdrojaky/9_cviceni(debugger)/qsortdemo/build/CMakeFiles/edit_cache.dir
+/home/frantisek/Dokumenty/VS/Vyuka/kiv-pc/Zdrojaky/9_cviceni(debugger)/qsortdemo/build/CMakeFiles/qsortdemo.dir

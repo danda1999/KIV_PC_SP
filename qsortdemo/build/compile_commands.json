@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/frantisek/Dokumenty/VS/Vyuka/kiv-pc/Zdrojaky/9_cviceni(debugger)/qsortdemo/build",
+  "command": "/usr/bin/gcc-9 -Wall -Wextra -pedantic -ansi -g -o CMakeFiles/qsortdemo.dir/src/qsortdemo.c.o -c \"/home/frantisek/Dokumenty/VS/Vyuka/kiv-pc/Zdrojaky/9_cviceni(debugger)/qsortdemo/src/qsortdemo.c\"",
+  "file": "/home/frantisek/Dokumenty/VS/Vyuka/kiv-pc/Zdrojaky/9_cviceni(debugger)/qsortdemo/src/qsortdemo.c"
+}
+]
